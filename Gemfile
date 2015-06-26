@@ -41,7 +41,7 @@ group :development, :test do
   gem 'spring'
   gem 'minitest-reporters'
   gem 'mini_backtrace', '0.1.3'
-  #gem 'guard-minitest'
+  gem 'guard'
 
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
